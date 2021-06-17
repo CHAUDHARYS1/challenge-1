@@ -27,6 +27,7 @@ p {
     float: right;
     margin-left: 25px;
 }
+/* end global styling */
 
 /* header styling */
 .header {
@@ -60,6 +61,7 @@ p {
     margin-left: 25px;    
 
 }
+/* end header styling */
 
 /* hero styling */
 .hero {
@@ -70,8 +72,8 @@ p {
     background-size: cover;
     background-position: center;
 }
-/* content styling */
 
+/* content styling */
 .content {
     width: 75%;
     display: inline-block;
@@ -90,6 +92,8 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/* end content styling */
+
 /* benifits styling */ 
 .benefits {
     margin-right: 20px;
@@ -114,9 +118,8 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
-
-
+/* end benifits styling */
+/* footer styling */
 .footer {
     padding: 30px;
     clear: both;
@@ -127,3 +130,4 @@ p {
 .footer h2 {
     font-size: 20px;
 }
+/* end footer styling */
